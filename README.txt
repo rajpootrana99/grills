@@ -5,9 +5,7 @@ Grills - Designed by Muhammad Rana
 AUTHOR:
 DESIGNED & DEVELOPED by Muhammad Rana
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://rana.spphotography.info/
 
 
 CREDITS:
