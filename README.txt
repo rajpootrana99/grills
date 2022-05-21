@@ -1,9 +1,9 @@
 
 TITLE: 
-Foodee - One Page Responsive Free HTML5 template
+Grills - Designed by Muhammad Rana
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Muhammad Rana
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
